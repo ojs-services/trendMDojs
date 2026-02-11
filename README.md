@@ -4,6 +4,14 @@ Integrates the [TrendMD](https://www.trendmd.com/) article recommendation widget
 
 No template editing required — enter your journal's TrendMD identifier and the plugin handles the rest.
 
+## Screenshots
+
+### Plugin Settings
+![Plugin Settings](screenshots/trendmdsettings.png)
+
+### TrendMD Widget on Article Page
+![TrendMD Widget](screenshots/trendmdfront.png)
+
 ## Features
 
 - **Simple Setup** — Enter your journal's TrendMD UUID. No code pasting, no template modifications.

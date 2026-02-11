@@ -4,6 +4,14 @@
 
 Tema dosyalarında düzenleme gerektirmez — derginizin TrendMD tanımlayıcısını girin, eklenti gerisini halleder.
 
+## Ekran Görüntüleri
+
+### Eklenti Ayarları
+![Eklenti Ayarları](screenshots/trendmdsettings.png)
+
+### Makale Sayfasında TrendMD Aracı
+![TrendMD Aracı](screenshots/trendmdfront.png)
+
 ## Özellikler
 
 - **Kolay Kurulum** — Derginizin TrendMD UUID'sini girin. Kod yapıştırma veya tema düzenleme gerekmez.
