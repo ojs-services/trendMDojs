@@ -1,0 +1,101 @@
+msgid "plugins.generic.trendMDojs.displayName"
+msgstr "TrendMD Öneri Aracı Eklentisi"
+
+msgid "plugins.generic.trendMDojs.description"
+msgstr "Dergiye özel TrendMD tanımlayıcısı kullanarak makale sayfalarına TrendMD makale öneri aracını entegre eder."
+
+msgid "plugins.generic.trendMDojs.guide.title"
+msgstr "Bu Eklenti Nasıl Çalışır?"
+
+msgid "plugins.generic.trendMDojs.guide.intro"
+msgstr "TrendMD, dergi sayfalarınızda kişiselleştirilmiş makale önerileri görüntüler. Her derginin TrendMD tarafından atanmış benzersiz bir tanımlayıcısı (UUID) vardır. Bu eklenti tüm teknik entegrasyonu otomatik olarak yönetir — yalnızca derginizin tanımlayıcısını girmeniz yeterlidir."
+
+msgid "plugins.generic.trendMDojs.guide.autoTitle"
+msgstr "Bu eklenti tarafından otomatik yönetilir:"
+
+msgid "plugins.generic.trendMDojs.guide.autoScript"
+msgstr "TrendMD JavaScript kütüphanesi sayfa başlığına yüklenir"
+
+msgid "plugins.generic.trendMDojs.guide.autoDiv"
+msgstr "Araç kapsayıcısı makale sayfalarında seçtiğiniz konuma yerleştirilir"
+
+msgid "plugins.generic.trendMDojs.guide.generatedCode"
+msgstr "Eklenti tarafından oluşturulan kod:"
+
+msgid "plugins.generic.trendMDojs.guide.youDoTitle"
+msgstr "Yapmanız gereken:"
+
+msgid "plugins.generic.trendMDojs.guide.youDoText"
+msgstr "Aşağıya derginizin TrendMD tanımlayıcısını girin. Bu UUID'yi TrendMD kontrol panelinizden veya TrendMD hesap temsilcinizden öğrenebilirsiniz."
+
+msgid "plugins.generic.trendMDojs.guide.exampleFormat"
+msgstr "Örnek: d388f983-22f3-4d5c-83a9-1389a369bb94"
+
+msgid "plugins.generic.trendMDojs.settings.identifierSection"
+msgstr "TrendMD Dergi Tanımlayıcısı"
+
+msgid "plugins.generic.trendMDojs.settings.identifierLabel"
+msgstr "Dergi Tanımlayıcısı (UUID)"
+
+msgid "plugins.generic.trendMDojs.settings.identifierHelp"
+msgstr "TrendMD tarafından derginize atanmış benzersiz tanımlayıcı. Format: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+msgid "plugins.generic.trendMDojs.settings.confirmNoIdentifier"
+msgstr "Tanımlayıcı girilmedi. Makale sayfalarında öneriler yerine bir bilgilendirme notu görünecektir. Yine de kaydetmek istiyor musunuz?"
+
+msgid "plugins.generic.trendMDojs.settings.displaySection"
+msgstr "Görüntüleme Seçenekleri"
+
+msgid "plugins.generic.trendMDojs.settings.positionLabel"
+msgstr "Araç Konumu"
+
+msgid "plugins.generic.trendMDojs.settings.cssClassLabel"
+msgstr "Özel CSS Sınıfı"
+
+msgid "plugins.generic.trendMDojs.settings.cssClassHelp"
+msgstr "İsteğe bağlı. Temaya özel stil için araç kapsayıcısına özel bir CSS sınıf adı ekleyin."
+
+msgid "plugins.generic.trendMDojs.position.articleMain"
+msgstr "Makale Özeti"
+
+msgid "plugins.generic.trendMDojs.position.articleMainHint"
+msgstr "Özetin altında (varsayılan)"
+
+msgid "plugins.generic.trendMDojs.position.articleDetail"
+msgstr "Makale Detayları"
+
+msgid "plugins.generic.trendMDojs.position.articleDetailHint"
+msgstr "Kenar çubuğu alanı"
+
+msgid "plugins.generic.trendMDojs.position.articleFooter"
+msgstr "Sayfa Alt Bilgisi"
+
+msgid "plugins.generic.trendMDojs.position.articleFooterHint"
+msgstr "Makale sayfasının en altı"
+
+msgid "plugins.generic.trendMDojs.validate.btnLabel"
+msgstr "Tanımlayıcıyı Doğrula"
+
+msgid "plugins.generic.trendMDojs.validate.checking"
+msgstr "Doğrulanıyor..."
+
+msgid "plugins.generic.trendMDojs.validate.success"
+msgstr "UUID formatı geçerli. Ayarları kaydedin ve aracın çalıştığını doğrulamak için sitenizdeki bir makale sayfasını kontrol edin."
+
+msgid "plugins.generic.trendMDojs.validate.empty"
+msgstr "Tanımlayıcı girilmedi. Lütfen derginizin TrendMD UUID'sini yapıştırın."
+
+msgid "plugins.generic.trendMDojs.validate.invalidFormat"
+msgstr "Geçersiz UUID formatı. Beklenen: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+msgid "plugins.generic.trendMDojs.validate.hasSpaces"
+msgstr "Tanımlayıcı boşluk içeriyor. Lütfen fazla boşlukları kaldırın."
+
+msgid "plugins.generic.trendMDojs.validate.wrongLength"
+msgstr "Yanlış uzunluk. Geçerli bir UUID tireler dahil 36 karakter uzunluğundadır."
+
+msgid "plugins.generic.trendMDojs.validate.error"
+msgstr "Doğrulama başarısız oldu. Lütfen tekrar deneyin."
+
+msgid "plugins.generic.trendMDojs.placeholder.message"
+msgstr "Bu eklenti aktif ancak dergi tanımlayıcısı yapılandırılmamıştır. Lütfen eklenti ayarlarından TrendMD UUID'nizi girin veya kullanmıyorsanız eklentiyi devre dışı bırakın."
