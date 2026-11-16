@@ -79,6 +79,6 @@ GNU Genel Kamu Lisansı v3. Detaylar için [COPYING](COPYING) dosyasına bakın.
 ## Destek
 
 - [GitHub Issues](https://github.com/ojs-services/trendMDojs/issues)
-- [OJS Services](https://ojsservices.com)
+- [OJS Services](https://ojs-services.com)
 
 **OJS Services** tarafından geliştirilmiştir.

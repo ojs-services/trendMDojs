@@ -79,6 +79,6 @@ GNU General Public License v3. See [COPYING](COPYING) for details.
 ## Support
 
 - [GitHub Issues](https://github.com/ojs-services/trendMDojs/issues)
-- [OJS Services](https://ojsservices.com)
+- [OJS Services](https://ojs-services.com)
 
 Developed by **OJS Services**
